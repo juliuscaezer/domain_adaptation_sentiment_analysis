@@ -1,0 +1,7 @@
+comment_index,true_label,pred_errors_var_2_normalising_casing_space,pred_errors_var_3_all_no_emoji_handling
+46,negative,positive,positive
+65,neutral,negative,positive
+73,neutral,negative,positive
+82,neutral,positive,positive
+132,neutral,negative,negative
+250,negative,positive,positive

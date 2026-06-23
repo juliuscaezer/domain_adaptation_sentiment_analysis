@@ -1,0 +1,229 @@
+==================================================
+TRAINING PHASE: var_1_all_preprocessing
+==================================================
+
+  --- Loading TFIDF Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 52.13%
+    [Trained] LinearSVC       | Validation Accuracy: 64.34%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 61.48%
+    [Trained] XGBoost         | Validation Accuracy: 61.44%
+
+  --- Loading W2V Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 49.69%
+    [Trained] LinearSVC       | Validation Accuracy: 60.82%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 56.48%
+    [Trained] XGBoost         | Validation Accuracy: 60.13%
+
+  --- Loading GLOVE Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 47.92%
+    [Trained] LinearSVC       | Validation Accuracy: 57.25%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 52.88%
+    [Trained] XGBoost         | Validation Accuracy: 58.15%
+
+  --- Loading FASTTEXT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 48.54%
+    [Trained] LinearSVC       | Validation Accuracy: 61.28%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.53%
+    [Trained] XGBoost         | Validation Accuracy: 60.98%
+
+  --- Loading BERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 57.25%
+    [Trained] LinearSVC       | Validation Accuracy: 65.82%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.73%
+    [Trained] XGBoost         | Validation Accuracy: 63.71%
+
+  --- Loading ROBERTA Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 50.75%
+    [Trained] LinearSVC       | Validation Accuracy: 69.61%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 66.90%
+    [Trained] XGBoost         | Validation Accuracy: 67.72%
+
+  --- Loading SBERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 60.86%
+    [Trained] LinearSVC       | Validation Accuracy: 68.90%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 64.34%
+    [Trained] XGBoost         | Validation Accuracy: 67.09%
+
+==================================================
+TRAINING PHASE: var_2_normalising_casing_space
+==================================================
+
+  --- Loading TFIDF Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 51.06%
+    [Trained] LinearSVC       | Validation Accuracy: 63.23%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 61.90%
+    [Trained] XGBoost         | Validation Accuracy: 61.46%
+
+  --- Loading W2V Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 49.46%
+    [Trained] LinearSVC       | Validation Accuracy: 61.03%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 56.13%
+    [Trained] XGBoost         | Validation Accuracy: 60.03%
+
+  --- Loading GLOVE Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 47.42%
+    [Trained] LinearSVC       | Validation Accuracy: 57.23%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 52.00%
+    [Trained] XGBoost         | Validation Accuracy: 57.42%
+
+  --- Loading FASTTEXT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 48.25%
+    [Trained] LinearSVC       | Validation Accuracy: 61.32%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.17%
+    [Trained] XGBoost         | Validation Accuracy: 60.61%
+
+  --- Loading BERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 57.94%
+    [Trained] LinearSVC       | Validation Accuracy: 65.71%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.23%
+    [Trained] XGBoost         | Validation Accuracy: 64.21%
+
+  --- Loading ROBERTA Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 51.52%
+    [Trained] LinearSVC       | Validation Accuracy: 70.22%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 66.63%
+    [Trained] XGBoost         | Validation Accuracy: 67.07%
+
+  --- Loading SBERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 61.48%
+    [Trained] LinearSVC       | Validation Accuracy: 69.01%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 64.71%
+    [Trained] XGBoost         | Validation Accuracy: 67.49%
+
+==================================================
+TRAINING PHASE: var_3_all_no_emoji
+==================================================
+
+  --- Loading TFIDF Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 51.02%
+    [Trained] LinearSVC       | Validation Accuracy: 63.55%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 61.32%
+    [Trained] XGBoost         | Validation Accuracy: 61.38%
+
+  --- Loading W2V Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 49.46%
+    [Trained] LinearSVC       | Validation Accuracy: 60.92%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 56.29%
+    [Trained] XGBoost         | Validation Accuracy: 60.48%
+
+  --- Loading GLOVE Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 47.35%
+    [Trained] LinearSVC       | Validation Accuracy: 57.07%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 52.38%
+    [Trained] XGBoost         | Validation Accuracy: 57.67%
+
+  --- Loading FASTTEXT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 48.12%
+    [Trained] LinearSVC       | Validation Accuracy: 61.13%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.00%
+    [Trained] XGBoost         | Validation Accuracy: 61.00%
+
+  --- Loading BERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 57.15%
+    [Trained] LinearSVC       | Validation Accuracy: 65.74%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 59.46%
+    [Trained] XGBoost         | Validation Accuracy: 64.13%
+
+  --- Loading ROBERTA Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 51.71%
+    [Trained] LinearSVC       | Validation Accuracy: 70.05%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 66.82%
+    [Trained] XGBoost         | Validation Accuracy: 67.55%
+
+  --- Loading SBERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 61.50%
+    [Trained] LinearSVC       | Validation Accuracy: 69.20%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 65.49%
+    [Trained] XGBoost         | Validation Accuracy: 67.11%
+
+==================================================
+TRAINING PHASE: var_4_all_no_hash_no_elong
+==================================================
+
+  --- Loading TFIDF Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 52.38%
+    [Trained] LinearSVC       | Validation Accuracy: 64.30%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 61.94%
+    [Trained] XGBoost         | Validation Accuracy: 62.09%
+
+  --- Loading W2V Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 49.75%
+    [Trained] LinearSVC       | Validation Accuracy: 60.75%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 57.21%
+    [Trained] XGBoost         | Validation Accuracy: 60.57%
+
+  --- Loading GLOVE Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 48.02%
+    [Trained] LinearSVC       | Validation Accuracy: 57.34%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 52.25%
+    [Trained] XGBoost         | Validation Accuracy: 58.05%
+
+  --- Loading FASTTEXT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 48.52%
+    [Trained] LinearSVC       | Validation Accuracy: 61.38%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.05%
+    [Trained] XGBoost         | Validation Accuracy: 61.05%
+
+  --- Loading BERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 57.44%
+    [Trained] LinearSVC       | Validation Accuracy: 65.44%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 60.09%
+    [Trained] XGBoost         | Validation Accuracy: 65.11%
+
+  --- Loading ROBERTA Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 50.67%
+    [Trained] LinearSVC       | Validation Accuracy: 69.74%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 66.99%
+    [Trained] XGBoost         | Validation Accuracy: 67.61%
+
+  --- Loading SBERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 60.65%
+    [Trained] LinearSVC       | Validation Accuracy: 68.95%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 64.96%
+    [Trained] XGBoost         | Validation Accuracy: 66.86%
+
+==================================================
+TRAINING PHASE: var_5_all_lowercased
+==================================================
+
+  --- Loading TFIDF Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 52.13%
+    [Trained] LinearSVC       | Validation Accuracy: 64.34%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 61.48%
+    [Trained] XGBoost         | Validation Accuracy: 61.44%
+
+  --- Loading W2V Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 50.44%
+    [Trained] LinearSVC       | Validation Accuracy: 60.67%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 57.57%
+    [Trained] XGBoost         | Validation Accuracy: 60.30%
+
+  --- Loading GLOVE Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 52.38%
+    [Trained] LinearSVC       | Validation Accuracy: 60.55%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 55.79%
+    [Trained] XGBoost         | Validation Accuracy: 60.78%
+
+  --- Loading FASTTEXT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 48.42%
+    [Trained] LinearSVC       | Validation Accuracy: 60.94%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 59.84%
+    [Trained] XGBoost         | Validation Accuracy: 60.42%
+
+  --- Loading BERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 58.38%
+    [Trained] LinearSVC       | Validation Accuracy: 66.44%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 61.28%
+    [Trained] XGBoost         | Validation Accuracy: 65.36%
+
+  --- Loading ROBERTA Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 50.88%
+    [Trained] LinearSVC       | Validation Accuracy: 69.86%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 65.34%
+    [Trained] XGBoost         | Validation Accuracy: 67.55%
+
+  --- Loading SBERT Embeddings ---
+    [Trained] Naive_Bayes     | Validation Accuracy: 60.86%
+    [Trained] LinearSVC       | Validation Accuracy: 68.88%
+    [Trained] MLP_NeuralNet   | Validation Accuracy: 64.24%
+    [Trained] XGBoost         | Validation Accuracy: 67.09%
